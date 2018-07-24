@@ -44,3 +44,10 @@ git commit --quiet -m 'Updates via sync script'
 git pull --no-edit --quiet 
 
 git push --quiet
+
+git status
+echo $?
+if [ $? -eq 1 ]
+then
+   echo "blah blah blah"
+fi

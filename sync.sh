@@ -35,12 +35,12 @@ fi
 
 cd . #.
 
-git submodule update --remote
+git submodule update --remote --quiet
 
-git add --all 
+git add --all
 
-git commit -m 'Updates via sync script'
+git commit --quiet -m 'Updates via sync script'
 
-git pull --no-edit 
+git pull --no-edit --quiet 
 
-git push
+git push --quiet

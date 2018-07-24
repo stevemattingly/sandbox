@@ -39,7 +39,7 @@ git submodule update --remote --quiet
 
 git add --all
 
-git commit --quiet -m 'Updates via sync script'
+#git commit --quiet -m 'Updates via sync script'
 
 git pull --no-edit --quiet 
 

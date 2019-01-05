@@ -1,6 +1,6 @@
 # sandbox
 
-[link](https://dewv.net/)
+[link](https://github.com/smattingly/sandbox/blob/0da816f46659edd22f9ea07a3aa846cdb47033f1/sync.sh/)
 
 creating new branch with another change
 

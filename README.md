@@ -23,3 +23,4 @@ change on master
 
 change in master branch of fork
 change in master branch of fork; will rules block it?
+a change after adding branch rule in fork
